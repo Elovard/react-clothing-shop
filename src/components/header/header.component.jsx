@@ -16,7 +16,7 @@ const Header = ({ currentUser }) => (
                 SHOP
             </Link>
             <Link className='option' to='/shop'>
-                CONTACT
+                THERE WILL BE CONTACT
             </Link>
             {
                 currentUser ? (
